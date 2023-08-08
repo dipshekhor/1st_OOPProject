@@ -1,0 +1,77 @@
+Package                 Destination              Prices-Per-Head
+1               Bandarban,Rangamati,Khagrachari         7000
+2               Rajshahi,Chapai,Natore,Bogura           5000
+3               Kuakata,Barishal,Pirojpur               5500
+4               Srimanagal,Moulavibazar,Chatok          6500
+5               Bhola,Chandpur,Cumilla,B-Baria          5600
+6               Cox's bazar,Saint-Martin,Teknaf         7500
+7               Sunamganj,Sylhet,Habiganj               7000
+8               Sundarban,Bagerhat,Khulna               6000
+choose your package giving the package code: 4
+Enter the total number of person
+8
+Enter the total number of child
+3
+Your Total cost for this trip will be: 60450TK only
+Tap to continue
+Type Yes/yes if you are interested to continue to book,otherwise type NO/no
+yes
+Give your information
+Enter your customer id
+4526141
+Enter your phone number
+01718053265
+Enter your name
+Dip Datta
+Check your information
+NAME: Dip Datta         CUSTOMER ID: 4526141    PHONE NUMBER: 01718053265
+Type 'y' if it is ok otherwise type 'n'
+n
+Enter your customer id
+4526141
+Enter your phone number
+01718053065
+Enter your name
+Dip Shekhor Datta
+Check your information
+NAME: Dip Shekhor Datta         CUSTOMER ID: 4526141    PHONE NUMBER: 01718053065
+Type 'y' if it is ok otherwise type 'n'
+y
+Press for booking
+Give your national id card number
+1032657831
+Your booking is completed
+BOOKINGID :880BD1032657831      NATIONAL ID: 1032657831         NAME: Dip Shekhor Datta         CUSTOMER ID: 4526141    PHONE NUMBER: 01718053065
+Your booking is successful,thanks for the visit
+Please choose your payment method :
+1.Cash payment
+2.Online payment
+3
+YOUR PAYMENT OPTION IS NOT FOUND
+Please choose your payment method :
+1.Cash payment
+2.Online payment
+2
+Choose the online options :
+1.Bkash
+2.Nagad
+3.Rocket
+4.Card
+5
+Your payment is not found
+Choose the online options :
+1.Bkash
+2.Nagad
+3.Rocket
+4.Card
+2
+Make payment in this number using payment option :01789654236546
+Drop your transaction id here :
+tcxsd/4512
+                                        HERE IS YOUR MONEY RECEIPT....
+NAME :Dip Shekhor Datta
+BOOKING ID: 880BD1032657831
+PHONE NUMBER: 01718053065
+                                        HAPPY TRAVELLING
+
+For any inneed please contact us in 01772895851
